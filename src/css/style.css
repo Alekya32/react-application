@@ -1,0 +1,90 @@
+ header{
+    background-color: black;
+  }
+   header img {
+    height: 40px;
+  }
+.menuItems{
+    float: right;
+    padding-top:14px;
+  }
+  body{
+    margin:0px !important;
+  }
+
+nav a {
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  padding-right: 20px;
+}
+.content{
+  background-color: #e0b720;
+  padding: 110px;
+  display: flex;
+} 
+
+section p{
+  color:white;
+}
+section img{
+  width: 285px;
+  height: 285px;
+}
+
+button {
+  width: 100px;
+  height: 35px;
+  background-color: #e0b720;
+  border-color: black;
+}
+
+.listItems{
+  background-color: black;
+}
+#first{
+  font-size: 40px;
+  padding-left: 40vw;
+  color:white;
+}
+
+#second{
+  color: #e0b720;
+  font-size: 20px;
+  padding-left: 45vh;
+}
+
+hr{
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+.service{
+  border-radius: 500px;
+  width:126px;
+  height: 135px;
+  
+}
+
+figcaption h3{
+  color:#e0b720;
+}
+
+.para{
+  color:white;
+}
+
+figure{
+  width:155px;
+}
+
+.flex-container{
+  display: flex;
+  flex-wrap: nowrap;
+  padding-left: 22vw;
+}
+
+section, article{
+  padding-top: 1px;
+}
+
